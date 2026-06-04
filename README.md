@@ -1,16 +1,31 @@
-## Hi there 👋
+# Mark Hoashi
 
-<!--
-**Squashi99/Squashi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent researcher exploring digital behavior, human well-being, and complex decision systems.
 
-Here are some ideas to get you started:
+Founder of **The Uplift Index**, a research initiative exploring whether aggregated digital behavior can provide early indicators of emotional distress and emerging societal needs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Interests
+
+- Digital behavior and societal well-being
+- Human-centered measurement systems
+- Decision-support systems
+- Market structure and complex adaptive systems
+- Information systems and societal measurement
+
+## Research & Projects
+
+### The Uplift Index
+Research exploring whether publicly available search behavior can complement traditional approaches to understanding societal well-being.
+
+### FlowLive Structure Engine (In Development)
+A framework for translating discretionary market concepts into persistent state, measurable events, and replayable decision histories.
+
+## Background
+
+Over 20 years building large-scale digital platforms, consumer products, and data-driven systems as a founder and technology executive.
+
+## Links
+
+- Uplift Index: https://upliftindex.org
+- Medium: https://medium.com/@mark_46250
+- LinkedIn: https://www.linkedin.com/in/markhoashi/
