@@ -17,7 +17,7 @@ Founder of **The Uplift Index**, a research initiative exploring whether aggrega
 ### The Uplift Index
 Research exploring whether publicly available search behavior can complement traditional approaches to understanding societal well-being.
 
-### FlowLive Structure Engine (In Development)
+### Market Structure State Engine (In Development)
 A framework for translating subjective market observations into persistent state, measurable events, and replayable decision histories.
 
 ## Background
