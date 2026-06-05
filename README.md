@@ -16,7 +16,8 @@ Independent researcher focused on measurement systems, complex adaptive systems,
 
 ### Market Structure State Engine
 https://github.com/Squashi99/market-structure-state-engine
-A framework for translating subjective market observations into persistent state, measurable events, and replayable decision histories.
+
+An event-sourced state engine that converts sequential observations into persistent state, measurable events, deterministic replay, and inspectable decision histories.
 
 ### The Uplift Index
 Research exploring whether publicly available search behavior can complement traditional approaches to understanding societal well-being.
