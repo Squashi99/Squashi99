@@ -2,7 +2,7 @@
 
 Independent researcher exploring digital behavior, human well-being, and complex decision systems.
 
-Founder of **The Uplift Index**, a research initiative exploring whether aggregated digital behavior can provide early indicators of emotional distress and emerging societal needs.
+Independent researcher focused on measurement systems, complex adaptive systems, decision-support architectures, and the translation of noisy real-world observations into interpretable state.
 
 ## Current Interests
 
@@ -14,13 +14,12 @@ Founder of **The Uplift Index**, a research initiative exploring whether aggrega
 
 ## Research & Projects
 
-### The Uplift Index
-Research exploring whether publicly available search behavior can complement traditional approaches to understanding societal well-being.
-
 ### Market Structure State Engine
 https://github.com/Squashi99/market-structure-state-engine
-
 A framework for translating subjective market observations into persistent state, measurable events, and replayable decision histories.
+
+### The Uplift Index
+Research exploring whether publicly available search behavior can complement traditional approaches to understanding societal well-being.
 
 ## Background
 
